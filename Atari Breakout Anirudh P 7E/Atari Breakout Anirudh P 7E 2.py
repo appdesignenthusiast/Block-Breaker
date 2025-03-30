@@ -1,3 +1,4 @@
+print("Going to import engineM6")
 import engineM6 as e, math, random
 
 gameState = "begin"
