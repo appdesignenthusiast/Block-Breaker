@@ -18,6 +18,7 @@ startButton = e.sprite(e.screenW/2-60, e.screenH/2-45, "start_button.png")
 pointsText = e.text("points:"+str(points), 24, (255,0,0), 25, 520)
 livesText = e.text("lives:"+str(lives), 24, (255,0,0), 25, 570)
 timer=3*20
+print("Hello World Nothing Weird is Going On")
 def makeGrid():
     global hSpace, vSpace
     
